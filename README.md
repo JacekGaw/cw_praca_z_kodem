@@ -1,1 +1,0 @@
-Do poprawnego działania projektu wymagany jest zainstalowany Python
